@@ -1,0 +1,11 @@
+C:/proenze_final/build/windows/runner/Debug/data/icudtl.dat
+C:/proenze_final/build/windows/runner/Debug/flutter_windows.dll
+C:/proenze_final/build/windows/runner/Debug/data/flutter_assets/AssetManifest.bin
+C:/proenze_final/build/windows/runner/Debug/data/flutter_assets/AssetManifest.json
+C:/proenze_final/build/windows/runner/Debug/data/flutter_assets/assets/logo.png
+C:/proenze_final/build/windows/runner/Debug/data/flutter_assets/FontManifest.json
+C:/proenze_final/build/windows/runner/Debug/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+C:/proenze_final/build/windows/runner/Debug/data/flutter_assets/kernel_blob.bin
+C:/proenze_final/build/windows/runner/Debug/data/flutter_assets/NOTICES.Z
+C:/proenze_final/build/windows/runner/Debug/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
+C:/proenze_final/build/windows/runner/Debug/data/flutter_assets/shaders/ink_sparkle.frag
